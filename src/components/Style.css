@@ -1,0 +1,45 @@
+ .body_login {
+    margin: 10px auto;
+    padding: 2px;
+    width: 35%;
+   
+    
+     
+} 
+.main-header h1 {
+   text-align: center;
+   font-family: fantasy; 
+   margin: 30px;  
+}
+
+.body_login button {
+     
+    color: white;
+    cursor:pointer;
+    padding: 5px;
+    margin: 10px;
+    width: 100%;
+    font-family:serif;
+    text-align: center;
+    font-size:larger;
+
+}
+
+.body_login p {
+    text-align: center;
+    font-size: medium;
+}
+img {
+    width: 30%;
+   float: left ;
+    padding: 5px;
+    padding-top: 10%;
+    position: relative;
+    left: 5%;
+    
+} 
+  /* }
+.login_page{
+    background-color:#E0EDF3;
+} */
+
